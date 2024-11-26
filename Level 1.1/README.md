@@ -1,8 +1,8 @@
 # 🎮 Detroit: Become Human - Interactive Web Experience
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/detroit-become-human-web)
-![GitHub language count](https://img.shields.io/github/languages/count/yourusername/detroit-become-human-web)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/detroit-become-human-web?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/weidshxt/detroit-become-human-web)
+![GitHub language count](https://img.shields.io/github/languages/count/weidshxt/detroit-become-human-web)
+![GitHub stars](https://img.shields.io/github/stars/weidshxt/detroit-become-human-web?style=social)
 
 ## 🌟 Project Overview
 
@@ -13,6 +13,12 @@ The **"Detroit: Become Human - Interactive Web Experience"** is a web-based proj
 - **Engagement**: To create an interactive environment that captures the essence of the game, encouraging users to explore and engage with its themes.
 - **Innovation**: To showcase advanced web technologies and animation techniques that enhance user experience.
 - **Accessibility**: To ensure that the experience is accessible across various devices, providing a seamless experience on both desktop and mobile platforms.
+
+## 👤 Developer Information
+
+This project is developed by **Kabir Khan**, a passionate web developer dedicated to creating engaging and interactive web experiences. Kabir aims to combine storytelling with technology to bring narratives to life through innovative web design.
+
+
 
 ## 📚 Table of Contents
 
