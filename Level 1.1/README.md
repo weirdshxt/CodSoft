@@ -1,9 +1,5 @@
 # 🎮 Detroit: Become Human - Interactive Web Experience
 
-![GitHub repo size](https://img.shields.io/github/repo-size/weidshxt/detroit-become-human-web)
-![GitHub language count](https://img.shields.io/github/languages/count/weidshxt/detroit-become-human-web)
-![GitHub stars](https://img.shields.io/github/stars/weidshxt/detroit-become-human-web?style=social)
-
 ## 🌟 Project Overview
 
 The **"Detroit: Become Human - Interactive Web Experience"** is a web-based project designed to immerse users in the narrative and themes of the acclaimed video game **"Detroit: Become Human."** This interactive experience utilizes modern web technologies to create a dynamic and engaging storytelling platform, allowing users to explore the game's universe through animations, videos, and smooth scrolling effects.
